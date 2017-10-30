@@ -220,7 +220,7 @@ button {
 @media only screen and (max-width: 768px) {
 
     #contact-info {
-        width: 628px;
+        width: 370px;
         margin-left: -80px;
         text-align: left;
         padding-left: 20px;
@@ -238,9 +238,6 @@ button {
 }
 
 @media only screen and (max-width: 640px) {
-    body {
-        background: url(../images/doodles.png);
-    }
 
     header {
         position: static;
@@ -248,10 +245,10 @@ button {
     }
 
     h1 {
-        width: 640px;
+        width: 820px;
         height: 20px;
         padding: 20px 0px 20px 0px;
-        margin-left: 100px;
+        margin-left: -200px;
         text-align: center;
         font-size: 40px;
     }
@@ -263,7 +260,7 @@ button {
     }
 
     nav li {
-        margin-left: -250px;
+        margin-left: -240px;
         margin-right: 250px;
         margin-top: 35px;
         padding-right: 130px;
@@ -279,7 +276,7 @@ button {
     }
 
     #contact-info {
-        width: 570px;
+        width: 380px;
     }
 
     input {
@@ -292,6 +289,7 @@ button {
 
     .footer {
         width: 640px;
+        text-align: center;
     }
 
     .games {
@@ -325,7 +323,7 @@ button {
     }
 
     h1 {
-        margin: 10px 5px 25px 105px;
+        margin: 10px px 25px 105px;
     }
 
     nav {
